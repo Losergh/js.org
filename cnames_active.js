@@ -1742,7 +1742,7 @@ var cnames_active = {
   "lombok": "lombokjs.github.io",
   "lona": "lonadb.github.io/Website",
   "loog": "israelroldan.github.io/loog",
-  "loser": "losergh.github.io/blog",
+  "loser": "losergh.github.io",
   "lostyle": "rtsao.github.io/lostyle",
   "lottiefy": "pd4d10.github.io/lottiefy",
   "loxt": "loxt.netlify.app",
