@@ -1743,6 +1743,7 @@ var cnames_active = {
   "lona": "lonadb.github.io/Website",
   "loog": "israelroldan.github.io/loog",
   "lostyle": "rtsao.github.io/lostyle",
+  "loser": "losergh.github.io/blog",
   "lottiefy": "pd4d10.github.io/lottiefy",
   "loxt": "loxt.netlify.app",
   "lps": "mauris.github.io/lps.js.org",
